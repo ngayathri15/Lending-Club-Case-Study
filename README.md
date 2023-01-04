@@ -23,8 +23,8 @@ To develop your understanding of the domain, you are advised to independently re
 - Getting the system ready and loading the data
 - Understanding the data
 - Missing value and outlier treatment
-- Exploratory Data Analysis (EDA)
-i. Univariate Analysis
+- Exploratory Data Analysis (EDA) <br>
+i. Univariate Analysis <br>
 ii. Bivariate Analysis
 
 ## SPECIFICATIONS
@@ -35,7 +35,7 @@ ii. Bivariate Analysis
 - MatplotLib
 
 ## Contact
-Created by Naga Gayathri P
+Created by: <br>  Naga Gayathri P <br>
            Balaji Pandian
 
 
